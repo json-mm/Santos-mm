@@ -1,5 +1,4 @@
-💭 I love solving programming challenges, coding and building various software projects with Dart & Flutter.
-
+Everything is awesome,no plans are best plan
 
 
 🕸 Slightly obsessed with Web technologies.
